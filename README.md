@@ -2,13 +2,13 @@
 
 Status: Completed archive project
 
-This is an early Unreal Engine 4 platformer where the player climbs upward while lava rises from below. It is kept as an archive project showing early game-development and publishing experience.
+I built this as an early Unreal Engine 4 platformer where the player climbs upward while lava rises from below. I keep it as an archive project showing early game-development and publishing experience.
 
 ![Unreal Engine platformer screenshot](media/Platformer.png)
 
 ## Overview
 
-The project was one of Carter Howell's first Unreal Engine builds. It focused on level layout, gameplay triggers, iteration, and publishing a playable build.
+This was one of my first Unreal Engine builds. I focused on level layout, gameplay triggers, iteration, and publishing a playable build.
 
 ## Tools
 
@@ -18,7 +18,7 @@ The project was one of Carter Howell's first Unreal Engine builds. It focused on
 
 ## Status Notes
 
-This project is historical. It is useful evidence of long-term technical curiosity and software/game experience, but it should not be featured above current electrical-engineering, embedded, PCB, or robotics projects.
+I keep this as a historical project. It shows my long-term technical curiosity and software/game experience, but I keep it below my current electrical-engineering, embedded, PCB, and robotics projects.
 
 ## Portfolio
 
