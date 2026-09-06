@@ -1,8 +1,8 @@
 # Platformer UE4 Game
 
-Status: Completed archive project
+Status: Completed Unreal Engine project
 
-I built this as an early Unreal Engine 4 platformer where the player climbs upward while lava rises from below. I keep it as an archive project showing early game-development and publishing experience.
+I built this as an early Unreal Engine 4 platformer where the player climbs upward while lava rises from below.
 
 ![Unreal Engine platformer screenshot](media/Platformer.png)
 
@@ -16,9 +16,9 @@ This was one of my first Unreal Engine builds. I focused on level layout, gamepl
 - Itch.io publishing
 - Game design and level iteration
 
-## Status Notes
+## What I Learned
 
-I keep this as a historical project. It shows my long-term technical curiosity and software/game experience, but I keep it below my current electrical-engineering, embedded, PCB, and robotics projects.
+This project helped me learn basic Unreal Engine project structure, level iteration, gameplay pacing, and publishing a playable build. The rising-lava mechanic made the level design more interesting because the player had to keep moving upward instead of exploring at their own pace.
 
 ## Portfolio
 
