@@ -16,10 +16,6 @@ This was one of my first Unreal Engine builds. I focused on level layout, gamepl
 - Itch.io publishing
 - Game design and level iteration
 
-## What I Learned
-
-This project helped me learn basic Unreal Engine project structure, level iteration, gameplay pacing, and publishing a playable build. The rising-lava mechanic made the level design more interesting because the player had to keep moving upward instead of exploring at their own pace.
-
 ## Portfolio
 
 Portfolio page: [Platformer UE4 Game](https://wchowellarchive.web.app/Projects/FirstUE4Game/Platformer.html)
